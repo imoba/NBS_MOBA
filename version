@@ -1,6 +1,10 @@
-[ { "note":"Update Available", 
+[ 
+{ 
+"note":"Update Available", 
 "version":"1.5", 
 "comment":"Hurry! New Features Awaits", 
 "link":"https://youtu.be/pzO9YMtC1R0", 
 "banner":"https://github.com/akosiatph/tito_banner/raw/main/20210908_114033.jpg", 
-"log":"\n✓Android 11 Support\n" } ]
+"log":"\n✓Android 11 Support\n" 
+} 
+]
